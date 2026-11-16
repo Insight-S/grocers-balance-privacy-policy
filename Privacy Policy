@@ -1,0 +1,48 @@
+Privacy Policy for Grocers' Balance
+
+App Name: Grocers' Balance
+Effective Date: November 16, 2026
+Last Updated: November 16, 2026
+
+
+This Privacy Policy explains how Grocers' Balance ("the App", "we", "our") handles information when you play the mobile game on Android or preview it on the web.
+
+Summary: Grocers' Balance does not require an account and does not directly collect your name, email address, phone number, contacts, photos, or precise GPS location. Gameplay progress stays strictly on your device. In the Android Google Play version, Google AdMob is used to display ads and may collect device and diagnostic identifiers as described below.
+
+1. Information We Do Not Collect
+Grocers' Balance does not ask for, collect, or store:
+- Account credentials, usernames, passwords, names, or email addresses
+- Precise GPS location, camera, microphone, contacts, calendar, or files
+- Financial or payment card details (the game has no in-app purchases)
+
+2. Local On-Device Storage
+Your gameplay progress—including earned stars, cleared stages, best completion times, winning streaks, and audio preferences—is stored locally on your device using local storage. This data is never uploaded to our servers. You can erase all saved game progress at any time using Reset Progress inside the in-game Level Select menu or by uninstalling the App.
+
+3. Third-Party Advertising (Google AdMob)
+The Android version of Grocers' Balance displays advertisements powered by Google AdMob (adaptive banners on menu screens, paced interstitials between completed stages, and optional player-initiated rewarded video ads for hints, bonus time, or move undo).
+
+To serve, cap, and measure ads and prevent fraud, the Google Mobile Ads SDK may automatically collect and transmit the following categories of data over encrypted HTTPS connections:
+- Device or Other IDs: Android Advertising ID (AD_ID) and app-set/device identifiers
+- Approximate Location: General region or country inferred from IP address (no GPS location is requested or accessed)
+- App Activity: Ad impressions, clicks, and basic app interaction events
+- App Info and Performance: Crash logs, SDK diagnostics, and performance telemetry
+
+For more details on how Google processes data in AdMob, please review Google's Privacy Policy (https://policies.google.com/privacy) and How Google uses information from sites or apps that use our services (https://policies.google.com/technologies/partner-sites).
+
+4. Consent & Your Privacy Choices (GDPR / EEA / UK / US)
+Grocers' Balance integrates Google's User Messaging Platform (UMP) SDK. Where required by regional privacy laws (such as GDPR in the EEA and UK), you are shown a consent dialog before ad personalization occurs, and you can update or withdraw your consent anytime from the in-game Privacy & Ads button (Manage Ad Consent).
+
+You can also reset or delete your Android Advertising ID and opt out of personalized ads in Android device settings: Settings -> Google -> Ads (or Settings -> Privacy -> Ads).
+
+5. Data Security & Encryption
+All network communications initiated by the App and integrated SDKs are encrypted in transit using HTTPS/TLS. Cleartext HTTP traffic is disabled in the Android application configuration.
+
+6. Children's Privacy
+Grocers' Balance is intended for a general audience (ages 13 and older) and is not directed to children under the age of 13 (or the applicable minimum age in your jurisdiction). Ad requests are configured with MaxAdContentRating.General and are not configured for child-directed targeting. We do not knowingly collect personal information from children. If you believe a child has provided personal data, please contact us so we can assist promptly.
+
+7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect app updates, SDK changes, or legal requirements. Updates will be posted on this page with a revised "Last Updated" date.
+
+8. Contact Us
+If you have any questions or privacy requests regarding Grocers' Balance, 
+Contact: contact@df.services
